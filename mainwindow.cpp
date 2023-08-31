@@ -1,4 +1,5 @@
 // new comment
+// new comment for QtCreator
 
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
